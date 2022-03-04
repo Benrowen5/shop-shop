@@ -8,8 +8,8 @@ MERN Stack application with GraphQL and Stripe
   
   Deployed Application: https://ecommerce-shop-2022.herokuapp.com/
 
-  ![VaporgamesSS](https://user-images.githubusercontent.com/79202800/152452051-45205a02-9e60-4322-9762-bfaf447b1beb.PNG)
-  
+  ![ShopshopSS](https://user-images.githubusercontent.com/79202800/156696249-765ed970-2441-4257-9c84-0731ff3bd0be.PNG)
+
   ***************************************************************
   ## Table of Contents
 * [Installation](#installation)
